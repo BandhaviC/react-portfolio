@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Smart Care Application",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Worked on Mobile App using Ionic framework.",
+    "skills": ["React Native", "Ionic Framework", "Express", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/BandhaviC/smart-care"
   },
   {
-    "title": "Project B",
+    "title": "Online e-commerce Store",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "This is an online store developed using Angular and MongoDB.",
+    "skills": ["Angular", "Express", "Node", "Sass", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/BandhaviC/onlinestore"
   },
   {
-    "title": "Project C",
+    "title": "BeachBNB Application",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a project similar to Airbnb developed using Angular.",
+    "skills": ["Angular", "Express", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/BandhaviC/Beachbnb"
   }
 ]

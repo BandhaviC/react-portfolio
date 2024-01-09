@@ -27,13 +27,14 @@
     "imageSrc": "history/delta.png"
   },
   {
-    "role": "Juior Developer Intern",
+    "role": "Junior Developer Intern",
     "organisation": "Con Edison",
     "startDate": "June 2021",
     "endDate": " Oct 2021",
     "experiences": [
       "Worked on component library",
       "Helped create UI components"
-    ]
+    ],
+    "imageSrc": "history/conedison.png"
   }
 ]
